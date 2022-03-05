@@ -1,0 +1,7 @@
+config.py
+credentials
+file.csv
+myenv
+.ipynb_checkpoints
+__pycache__
+.DS_Store
